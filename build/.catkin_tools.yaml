@@ -1,0 +1,6 @@
+devel_space: /home/foscar/Molit_2025-main/devel
+install: false
+install_space: /home/foscar/Molit_2025-main/install
+profile: default
+source_space: /home/foscar/Molit_2025-main/src
+workspace: /home/foscar/Molit_2025-main

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!-- GPS to UTMK coordinate transformation node -->
+    <include file="$(find gps)/launch/gps_to_utmk.launch" />
+    <include file="$(find morai_control)/launch/morai_control.launch" />
+
+    <!-- Path planner node -->
+    <include file="$(find planning)/launch/planner.launch">
+        <arg name="path" value="$(arg path)" />
+    </include>
+
+
+    <!-- MORAI UDP Control node -->
+</launch>

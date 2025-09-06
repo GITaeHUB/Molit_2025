@@ -1,0 +1,4 @@
+morai_control
+/home/foscar/Molit_2025-main/devel/.private/morai_control/lib/pkgconfig/morai_control.pc /home/foscar/Molit_2025-main/devel/lib/pkgconfig/morai_control.pc
+/home/foscar/Molit_2025-main/devel/.private/morai_control/share/morai_control/cmake/morai_controlConfig.cmake /home/foscar/Molit_2025-main/devel/share/morai_control/cmake/morai_controlConfig.cmake
+/home/foscar/Molit_2025-main/devel/.private/morai_control/share/morai_control/cmake/morai_controlConfig-version.cmake /home/foscar/Molit_2025-main/devel/share/morai_control/cmake/morai_controlConfig-version.cmake

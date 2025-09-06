@@ -1,0 +1,13 @@
+Symlinking /home/foscar/Molit_2025-main/devel/./local_setup.fish
+Symlinking /home/foscar/Molit_2025-main/devel/./env.sh
+Symlinking /home/foscar/Molit_2025-main/devel/./local_setup.sh
+Symlinking /home/foscar/Molit_2025-main/devel/./local_setup.bash
+Symlinking /home/foscar/Molit_2025-main/devel/./setup.bash
+Symlinking /home/foscar/Molit_2025-main/devel/./setup.sh
+Symlinking /home/foscar/Molit_2025-main/devel/./local_setup.zsh
+Symlinking /home/foscar/Molit_2025-main/devel/./setup.zsh
+Symlinking /home/foscar/Molit_2025-main/devel/./setup.fish
+Symlinking /home/foscar/Molit_2025-main/devel/./_setup_util.py
+Symlinking /home/foscar/Molit_2025-main/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/foscar/Molit_2025-main/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/foscar/Molit_2025-main/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/foscar/Molit_2025-main/devel/.private/gps/share/common-lisp/ros/gps/srv/_package.lisp

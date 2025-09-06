@@ -1,0 +1,1 @@
+/home/foscar/Molit_2025-main/devel/.private/planning/share/roseus/ros/planning/msg/PathReference.l

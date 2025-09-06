@@ -1,0 +1,22 @@
+gps
+/home/foscar/Molit_2025-main/devel/.private/gps/include/gps/InitializePoseResponse.h /home/foscar/Molit_2025-main/devel/include/gps/InitializePoseResponse.h
+/home/foscar/Molit_2025-main/devel/.private/gps/include/gps/InitializePose.h /home/foscar/Molit_2025-main/devel/include/gps/InitializePose.h
+/home/foscar/Molit_2025-main/devel/.private/gps/include/gps/InitializePoseRequest.h /home/foscar/Molit_2025-main/devel/include/gps/InitializePoseRequest.h
+/home/foscar/Molit_2025-main/devel/.private/gps/lib/python3/dist-packages/gps/__init__.py /home/foscar/Molit_2025-main/devel/lib/python3/dist-packages/gps/__init__.py
+/home/foscar/Molit_2025-main/devel/.private/gps/lib/python3/dist-packages/gps/srv/__init__.py /home/foscar/Molit_2025-main/devel/lib/python3/dist-packages/gps/srv/__init__.py
+/home/foscar/Molit_2025-main/devel/.private/gps/lib/python3/dist-packages/gps/srv/_InitializePose.py /home/foscar/Molit_2025-main/devel/lib/python3/dist-packages/gps/srv/_InitializePose.py
+/home/foscar/Molit_2025-main/devel/.private/gps/lib/pkgconfig/gps.pc /home/foscar/Molit_2025-main/devel/lib/pkgconfig/gps.pc
+/home/foscar/Molit_2025-main/devel/.private/gps/lib/gps/gps_to_utmk.py /home/foscar/Molit_2025-main/devel/lib/gps/gps_to_utmk.py
+/home/foscar/Molit_2025-main/devel/.private/gps/share/gennodejs/ros/gps/_index.js /home/foscar/Molit_2025-main/devel/share/gennodejs/ros/gps/_index.js
+/home/foscar/Molit_2025-main/devel/.private/gps/share/gennodejs/ros/gps/srv/InitializePose.js /home/foscar/Molit_2025-main/devel/share/gennodejs/ros/gps/srv/InitializePose.js
+/home/foscar/Molit_2025-main/devel/.private/gps/share/gennodejs/ros/gps/srv/_index.js /home/foscar/Molit_2025-main/devel/share/gennodejs/ros/gps/srv/_index.js
+/home/foscar/Molit_2025-main/devel/.private/gps/share/gps/cmake/gps-msg-extras.cmake /home/foscar/Molit_2025-main/devel/share/gps/cmake/gps-msg-extras.cmake
+/home/foscar/Molit_2025-main/devel/.private/gps/share/gps/cmake/gps-msg-paths.cmake /home/foscar/Molit_2025-main/devel/share/gps/cmake/gps-msg-paths.cmake
+/home/foscar/Molit_2025-main/devel/.private/gps/share/gps/cmake/gpsConfig-version.cmake /home/foscar/Molit_2025-main/devel/share/gps/cmake/gpsConfig-version.cmake
+/home/foscar/Molit_2025-main/devel/.private/gps/share/gps/cmake/gpsConfig.cmake /home/foscar/Molit_2025-main/devel/share/gps/cmake/gpsConfig.cmake
+/home/foscar/Molit_2025-main/devel/.private/gps/share/roseus/ros/gps/manifest.l /home/foscar/Molit_2025-main/devel/share/roseus/ros/gps/manifest.l
+/home/foscar/Molit_2025-main/devel/.private/gps/share/roseus/ros/gps/srv/InitializePose.l /home/foscar/Molit_2025-main/devel/share/roseus/ros/gps/srv/InitializePose.l
+/home/foscar/Molit_2025-main/devel/.private/gps/share/common-lisp/ros/gps/srv/_package_InitializePose.lisp /home/foscar/Molit_2025-main/devel/share/common-lisp/ros/gps/srv/_package_InitializePose.lisp
+/home/foscar/Molit_2025-main/devel/.private/gps/share/common-lisp/ros/gps/srv/gps-srv.asd /home/foscar/Molit_2025-main/devel/share/common-lisp/ros/gps/srv/gps-srv.asd
+/home/foscar/Molit_2025-main/devel/.private/gps/share/common-lisp/ros/gps/srv/InitializePose.lisp /home/foscar/Molit_2025-main/devel/share/common-lisp/ros/gps/srv/InitializePose.lisp
+/home/foscar/Molit_2025-main/devel/.private/gps/share/common-lisp/ros/gps/srv/_package.lisp /home/foscar/Molit_2025-main/devel/share/common-lisp/ros/gps/srv/_package.lisp

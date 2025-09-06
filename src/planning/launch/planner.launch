@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!-- 'path' 인자를 필수로 입력받도록 default 값을 제거합니다. -->
+    <arg name="path" />
+    <node pkg="planning" type="planner.py" name="planner" output="screen">
+        <param name="path_name" value="$(arg path)" />
+    </node>
+</launch>

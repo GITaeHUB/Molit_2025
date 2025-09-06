@@ -1,0 +1,1 @@
+/home/foscar/Molit_2025-main/devel/.private/gps/share/roseus/ros/gps/manifest.l

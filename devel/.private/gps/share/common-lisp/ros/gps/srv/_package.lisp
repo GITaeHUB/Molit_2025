@@ -1,0 +1,10 @@
+(cl:defpackage gps-srv
+  (:use )
+  (:export
+   "INITIALIZEPOSE"
+   "<INITIALIZEPOSE-REQUEST>"
+   "INITIALIZEPOSE-REQUEST"
+   "<INITIALIZEPOSE-RESPONSE>"
+   "INITIALIZEPOSE-RESPONSE"
+  ))
+

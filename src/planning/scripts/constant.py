@@ -1,0 +1,23 @@
+from enum import Enum, auto
+
+class Lane(Enum):
+    ONE = auto()
+    TWO = auto()
+    THREE = auto()
+    FOUR = auto()
+    FIVE = auto()
+    SIX = auto()
+    SEVEN = auto()
+    EIGHT = auto()
+    NINE = auto()
+    TEN = auto()
+    ELEVEN = auto()
+    TWELVE = auto()
+    THIRTEEN = auto()
+    FOURTEEN = auto()
+    FIFTEEN = auto()
+    SIXTEEN = auto()
+    SEVENTEEN = auto()
+    EIGHTEEN = auto()
+    NINETEEN = auto()
+    TWENTY = auto()

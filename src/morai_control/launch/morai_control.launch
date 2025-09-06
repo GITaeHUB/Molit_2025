@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node pkg="morai_control" type="morai_cmd_controller_node.py" name="morai_udp_controller" output="screen">
+        <!-- MORAI 시뮬레이터가 설치된 PC의 IP와 UDP 포트 설정 -->
+        <param name="ip" value="127.0.0.1" />
+        <param name="port" value="9093" />
+        <param name="max_steer_angle" value="30.0" />
+    </node>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/foscar/Molit_2025-main/install
+
+Name: morai_control
+Description: Description of morai_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

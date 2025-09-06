@@ -1,0 +1,1 @@
+/home/foscar/Molit_2025-main/devel/.private/main/lib/pkgconfig/main.pc

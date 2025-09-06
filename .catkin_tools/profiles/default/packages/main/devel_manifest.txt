@@ -1,0 +1,4 @@
+main
+/home/foscar/Molit_2025-main/devel/.private/main/lib/pkgconfig/main.pc /home/foscar/Molit_2025-main/devel/lib/pkgconfig/main.pc
+/home/foscar/Molit_2025-main/devel/.private/main/share/main/cmake/mainConfig.cmake /home/foscar/Molit_2025-main/devel/share/main/cmake/mainConfig.cmake
+/home/foscar/Molit_2025-main/devel/.private/main/share/main/cmake/mainConfig-version.cmake /home/foscar/Molit_2025-main/devel/share/main/cmake/mainConfig-version.cmake

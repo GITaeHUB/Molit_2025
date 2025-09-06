@@ -1,0 +1,8 @@
+prefix=/home/foscar/Molit_2025-main/install
+
+Name: main
+Description: Description of main
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy gps planning
